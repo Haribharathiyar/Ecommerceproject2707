@@ -3,7 +3,7 @@ import java.lang.Math;
 import java.io.collection; 
 import java.io.scanner;
 import java.io.inputprinter;
-jalabulajangu don setiinguh
+halamithi habibo
 public class SpiralPatternExample2
 {  
 //function to print the spiral pattern  
